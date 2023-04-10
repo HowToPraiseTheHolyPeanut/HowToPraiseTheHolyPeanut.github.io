@@ -2,18 +2,13 @@
   <head>
     <title>Moje BIO</title>
     <style>
-    body {
-      background-color: #333;
-      color: #fff;
-    }
-
     /* Ustawienia globalne */
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
+      background-color: #333;
+      color: #fff;
     }
 
     /* Nagłówki */
