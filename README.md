@@ -25,7 +25,7 @@ h1, h2, ul {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background: linear-gradient(to bottom, #145369, #5F9EA0)
+      background-image: linear-gradient(to bottom, #145369, #1a1a1a);
       color: #fff;
     }
 
