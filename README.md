@@ -3,29 +3,12 @@
     <title>Moje BIO</title>
     <style>
     /* Ustawienia globalne */
-    
-      
-    @keyframes slidein {
-      from {
-        margin-left: 100%;
-        width: 300%;
-      }
-
-      to {
-        margin-left: 0%;
-        width: 100%;
-      }
-  }
-
-h1, h2, ul {
-  animation: slidein 1s ease-in-out;
-}
 
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: linear-gradient(to bottom, #145369, #1a1a1a);
+      background-image: linear-gradient(to bottom, #000000, #808080);
       color: #fff;
     }
 
@@ -72,8 +55,12 @@ h1, h2, ul {
     }
 
     ul li:hover {
-      background-color: #ccc;
-      color: #fff;
+      background-color: #fff;
+      color: #145369;
+      border-color: #145369;
+    }
+    a:hover {
+      text-decoration: underline;
     }
 
     /* Paragrafy */
