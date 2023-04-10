@@ -82,6 +82,8 @@
       <li>C++</li>
       <li>C#</li>
     </ul>
+  <br>
+  <br>
     <h2>Hobby</h2>
     <p>Ogólnie to uwielbiam Airsoft. Byłem na paru rozgrywkach i było super. Czasami próbuję swoich sił w Programowaniu Obiektowym, zajmując się różnymi grami. Oczywiście uwielbiam też grać. </p>
     <ul>
@@ -89,11 +91,15 @@
       <li>GameDev</li>
       <li>Granie</li>
     </ul>
+  <br>
+  <br>
     <h2>Co jest Grane?</h2>
  <ul>
       <li>SCP:SL <400 godzin></li>
       <li>CS:GO <400 godzin></li>
       <li>Minecraft</li>
     </ul>
+  <br>
+  <br>
   </body>
 </html>
