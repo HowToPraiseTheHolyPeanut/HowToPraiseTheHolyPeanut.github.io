@@ -38,6 +38,10 @@ h1, h2, ul {
       text-shadow: 2px 2px #ccc;
     }
 
+    a {
+      color: white;
+    }
+      
     h2 {
       font-size: 2em;
       border-bottom: 1px solid #ccc;
@@ -104,7 +108,7 @@ h1, h2, ul {
   <body>
     <br>
     <h1>O mnie :></h1>
-    <p>Lvl 16, uczeń Technikum 2 klasy. W skrócie programista z dużymi ambicjami :> </p>
+    <p>LvL 16, uczeń Technikum 2 klasy. W skrócie programista z dużymi ambicjami :> </p>
     <br>
     <h2>Języki Programowania których się uczę: </h2>
     <ul>
