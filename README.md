@@ -40,6 +40,11 @@ h1, h2, ul {
 
     a {
       color: white;
+      text-decoration: none;    
+    }
+
+    a:hover {
+      color: #000;
     }
       
     h2 {
