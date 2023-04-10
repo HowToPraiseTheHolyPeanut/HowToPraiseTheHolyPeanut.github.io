@@ -55,9 +55,15 @@
     }
 
     ul li:hover {
-      background-color: #ccc;
-      color: #fff;
+      background-color: #fff;
+      color: #145369;
+      border-color: #145369;
     }
+      
+    a:hover {
+      text-decoration: underline;
+    }
+
 
     /* Paragrafy */
     p {
