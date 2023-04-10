@@ -6,7 +6,7 @@
     <h1>Moje BIO</h1>
     <h2>O mnie</h2>
     <p>Uczeń Technikum, klasa 2.</p>
-    <h2>Języki Programowania które się uczę: </h2>
+    <h2>Języki Programowania których się uczę: </h2>
     <ul>
       <li>Python</li>
       <li>PHP</li>
@@ -14,17 +14,11 @@
       <li>C++</li>
       <li>C#</li>
     </ul>
-    <h2>Umiejętności</h2>
+    <h2>Hobby</h2>
+    <p>Ogólnie to uwielbiam Airsoft. Byłem na paru rozgrywkach i było super. Czasami próbuję swoich sił w Programowaniu Obiektowym, zajmując się różnymi grami.</p>
     <ul>
-      <li>Umiejętność 1</li>
-      <li>Umiejętność 2</li>
-      <li>Umiejętność 3</li>
-    </ul>
-    <h2>Zainteresowania</h2>
-    <ul>
-      <li>Zainteresowanie 1</li>
-      <li>Zainteresowanie 2</li>
-      <li>Zainteresowanie 3</li>
+      <li>Airsoft</li>
+      <li>GameDev</li>
     </ul>
   </body>
 </html>
