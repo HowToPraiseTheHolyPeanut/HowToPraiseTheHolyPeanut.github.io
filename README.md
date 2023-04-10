@@ -8,7 +8,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #333;
+      background-color: #145369;
       color: #fff;
     }
 
