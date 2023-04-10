@@ -6,12 +6,14 @@
   <body>
     <h1>Moje BIO</h1>
     <h2>O mnie</h2>
-    <p>Tutaj umieszczasz krótki opis siebie.</p>
-    <h2>Doświadczenie</h2>
+    <p>Uczeń Technikum, klasa 2.</p>
+    <h2>Języki Programowania które się uczę: </h2>
     <ul>
-      <li>Opis doświadczenia 1</li>
-      <li>Opis doświadczenia 2</li>
-      <li>Opis doświadczenia 3</li>
+      <li>Python</li>
+      <li>PHP</li>
+      <li>JS</li>
+      <li>C++</li>
+      <li>C#</li>
     </ul>
     <h2>Umiejętności</h2>
     <ul>
