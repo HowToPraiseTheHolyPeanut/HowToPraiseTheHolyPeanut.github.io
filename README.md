@@ -1,6 +1,67 @@
 <html>
   <head>
     <title>Moje BIO</title>
+    <style>
+    /* Ustawienia globalne */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    /* Nagłówki */
+    h1, h2 {
+      font-weight: bold;
+      text-align: center;
+      margin-top: 30px;
+    }
+
+    h1 {
+      font-size: 3em;
+      text-shadow: 2px 2px #ccc;
+    }
+
+    h2 {
+      font-size: 2em;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+
+    /* Lista */
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    ul li {
+      display: inline-block;
+      margin: 10px;
+      font-weight: bold;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      padding: 10px;
+      transition: background-color 0.3s ease;
+    }
+
+    ul li:hover {
+      background-color: #ccc;
+      color: #fff;
+    }
+
+    /* Paragrafy */
+    p {
+      font-size: 1.2em;
+      line-height: 1.5;
+      margin: 20px;
+      text-align: justify;
+    }
+
+    </style>
   </head>
   <body>
     <h1>Moje BIO</h1>
