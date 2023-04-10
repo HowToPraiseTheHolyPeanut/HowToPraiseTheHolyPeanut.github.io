@@ -10,7 +10,17 @@
       background-image: linear-gradient(to bottom, #333, #444);
       color: #fff;
     }
+ 
+      @keyframes fade-in {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
 
+h1, h2, ul {
+  animation: fade-in 1s ease;
+}      
+    
+      
     /* Nagłówki */
     h1, h2 {
       font-weight: bold;
