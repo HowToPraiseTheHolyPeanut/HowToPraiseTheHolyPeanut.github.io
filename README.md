@@ -73,17 +73,20 @@
     </style>
   </head>
   <body>
-    <title>O mnie :></title>
+    <h1>O mnie :></h1>
     <p>Lvl 16, uczeń Technikum 2 klasy. W skrócie programista z dużymi ambicjami :> </p>
     <h2>Języki Programowania których się uczę: </h2>
     <ul>
       <li>Python</li>
       <li>PHP</li>
       <li>JS</li>
+      <li>C</li>
       <li>C++</li>
       <li>C#</li>
+      <li>Batch</li>
+      <li>Kotlin</li>
+      <li>SQL</li>
     </ul>
-  <br>
   <br>
     <h2>Hobby</h2>
     <p>Ogólnie to uwielbiam Airsoft. Byłem na paru rozgrywkach i było super. Czasami próbuję swoich sił w Programowaniu Obiektowym, zajmując się różnymi grami. Oczywiście uwielbiam też grać. </p>
@@ -93,14 +96,12 @@
       <li>Granie</li>
     </ul>
   <br>
-  <br>
     <h2>Co jest Grane?</h2>
  <ul>
       <li>SCP:SL <400 godzin></li>
       <li>CS:GO <400 godzin></li>
       <li>Minecraft</li>
     </ul>
-  <br>
   <br>
   </body>
 </html>
