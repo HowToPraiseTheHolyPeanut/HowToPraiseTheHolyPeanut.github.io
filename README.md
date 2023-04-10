@@ -3,6 +3,7 @@
     <title>Moje BIO</title>
     <style>
     /* Ustawienia globalne */
+      
     body {
       font-family: Arial, sans-serif;
       margin: 0;
@@ -17,6 +18,11 @@
       text-align: center;
       margin-top: 30px;
     }
+
+    header {
+      display: none;
+    }
+
 
     h1 {
       font-size: 3em;
