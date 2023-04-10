@@ -72,15 +72,9 @@ h1, h2, ul {
     }
 
     ul li:hover {
-      background-color: #fff;
-      color: #145369;
-      border-color: #145369;
+      background-color: #ccc;
+      color: #fff;
     }
-      
-    a:hover {
-      text-decoration: underline;
-    }
-
 
     /* Paragrafy */
     p {
