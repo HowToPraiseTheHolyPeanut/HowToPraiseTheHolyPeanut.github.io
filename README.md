@@ -3,9 +3,9 @@
     <title>Moje BIO</title>
     <style>
     /* Ustawienia globalne */
-
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans');
     body {
-      font-family: Arial, sans-serif;
+      font-family: 'Open Sans', sans-serif;
       margin: 0;
       padding: 0;
       background-image: linear-gradient(to bottom, #000000, #808080);
