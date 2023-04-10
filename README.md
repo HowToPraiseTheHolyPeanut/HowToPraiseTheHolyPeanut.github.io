@@ -47,13 +47,11 @@ h1, h2, ul {
       color: #000;
     }
 
-    .frame:hover {
-      background-color: #FFFFFF;
-      color: #000000;
-      border: 1px solid #000000;
+    .hover-box:hover {
+      background-color: #fff;
+      color: #000;
     }
-
-      
+    
     h2 {
       font-size: 2em;
       border-bottom: 1px solid #ccc;
