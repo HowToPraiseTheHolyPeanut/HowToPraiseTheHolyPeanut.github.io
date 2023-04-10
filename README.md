@@ -53,6 +53,23 @@ h1, h2, ul {
       text-align: center;
     }
 
+    ul li.programming {
+      background-color: #145369;
+      color: #fff;
+    }
+
+    ul li.hobby {
+      background-color: #e74c3c;
+      color: #fff;
+    }
+
+    ul li:hover {
+      background-color: #fff;
+      color: #145369;
+      border-color: #145369;
+    }
+
+      
     ul li {
       display: inline-block;
       margin: 10px;
