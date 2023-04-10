@@ -108,7 +108,7 @@ h1, h2, ul {
     <br>
     <h2>Języki Programowania których się uczę: </h2>
     <ul>
-      <li>Python</li>
+      <li><a href="">Python</a></li>
       <li>PHP</li>
       <li>JS</li>
       <li>C</li>
