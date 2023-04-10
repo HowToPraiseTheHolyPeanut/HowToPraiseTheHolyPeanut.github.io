@@ -8,7 +8,7 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #145369;
+      background: linear-gradient(to bottom, #145369, #5F9EA0)
       color: #fff;
     }
 
