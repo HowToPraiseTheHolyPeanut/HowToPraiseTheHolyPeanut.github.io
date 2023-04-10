@@ -44,7 +44,7 @@ h1, h2, ul {
     }
 
     a {
-      color: white;
+      color: black;
       text-decoration: none;    
   }
 
