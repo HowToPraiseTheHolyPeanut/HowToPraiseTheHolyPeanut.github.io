@@ -3,7 +3,24 @@
     <title>Moje BIO</title>
     <style>
     /* Ustawienia globalne */
+    
       
+    @keyframes slidein {
+      from {
+        margin-left: 100%;
+        width: 300%;
+      }
+
+      to {
+        margin-left: 0%;
+        width: 100%;
+      }
+  }
+
+h1, h2, ul {
+  animation: slidein 1s ease-in-out;
+}
+
     body {
       font-family: Arial, sans-serif;
       margin: 0;
