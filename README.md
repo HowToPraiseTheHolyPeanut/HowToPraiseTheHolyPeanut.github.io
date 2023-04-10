@@ -73,6 +73,7 @@
     </style>
   </head>
   <body>
+    <title>O mnie :></title>
     <p>Lvl 16, uczeń Technikum 2 klasy. W skrócie programista z dużymi ambicjami :> </p>
     <h2>Języki Programowania których się uczę: </h2>
     <ul>
