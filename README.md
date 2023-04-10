@@ -20,6 +20,11 @@ h1, h2, ul {
   animation: fade-in 1s ease;
 }      
     
+
+    .hover-box:hover h2 {
+      color: #000;
+    }
+
       
     /* Nagłówki */
     h1, h2 {
