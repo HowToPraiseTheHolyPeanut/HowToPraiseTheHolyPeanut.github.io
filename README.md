@@ -46,11 +46,13 @@ h1, h2, ul {
     a {
       color: white;
       text-decoration: none;    
-    }
+  }
 
     a:hover {
-      color: #000;
+      color: black;
+      text-decoration: underline;
     }
+
 
     .hover-box:hover {
       background-color: #fff;
