@@ -75,7 +75,7 @@
   </head>
   <body>
     <h1>Moje BIO</h1>
-    <h2>O mnie</h2>
+    <h1>O mnie</h1>
     <p>Lvl 16, uczeń Technikum 2 klasy. W skrócie programista z dużymi ambicjami :> </p>
     <h2>Języki Programowania których się uczę: </h2>
     <ul>
