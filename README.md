@@ -7,7 +7,7 @@
       font-family: 'Open Sans', sans-serif;
       margin: 0;
       padding: 0;
-      background-image: linear-gradient(to bottom, #333, #444);
+      background-image: linear-gradient(45deg, #333333, #ff9933);
       color: #fff;
     }
  
