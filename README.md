@@ -130,7 +130,7 @@ h1, h2, ul {
     <br>
     <h2>Języki Programowania których się uczę: </h2>
     <ul>
-      <li><a href="https://github.com/HowToPraiseTheHolyPeanut/Python">Python</a></li>
+      <li><a href="https://howtopraisetheholypeanut.github.io/Python/">Python</a></li>
       <li>PHP</li>
       <li>JS</li>
       <li>C</li>
