@@ -123,7 +123,7 @@ h1, h2, ul {
     </style>
   </head>
   <body>
-    <h1><b>Ta strona jest w trakcie robienia! || This site is under construction!</b></h1>
+    <h1><b>coś</b></h1>
     <br>
     <h1>O mnie :></h1>
     <p>LvL 16, uczeń Technikum 2 klasy. W skrócie programista z dużymi ambicjami :> </p>
