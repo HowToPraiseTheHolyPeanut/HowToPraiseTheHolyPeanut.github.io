@@ -123,6 +123,51 @@ h1, h2, ul {
     </style>
   </head>
   <body>
+
+
+    <script>
+    async function updateCurrentlyPlaying() {
+        const clientId = '9040b077e835427b905ae01e299b6b4b'; // Podstaw tutaj swoje Client ID z Spotify Developer Dashboard
+        const token = 'ae319ad5f7c64559b8e359cd5e069bcd'; // Tutaj umieść token dostępu
+
+        try {
+            // Pobierz dane o aktualnie odtwarzanym utworze
+            const response = await fetch('https://api.spotify.com/v1/me/player/currently-playing', {
+                headers: {
+                    'Authorization': 'Bearer ' + token,
+                    'Content-Type': 'application/json'
+                }
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                const trackName = data.item.name;
+                const artistName = data.item.artists.map(artist => artist.name).join(', ');
+                const albumName = data.item.album.name;
+
+                // Aktualizuj zawartość diva "spotify-info" z pobranymi danymi
+                document.getElementById('track-name').innerText = trackName;
+                document.getElementById('artist-name').innerText = artistName;
+                document.getElementById('album-name').innerText = albumName;
+            } else {
+                // Jeśli nie masz aktualnie odtwarzanego utworu, wyświetl informację
+                document.getElementById('track-info').innerText = 'Nie odtwarzam żadnego utworu.';
+                document.getElementById('album-info').style.display = 'none'; // Ukryj informacje o albumie
+            }
+        } catch (error) {
+            console.error('Wystąpił błąd:', error);
+            // Wyświetl informację o błędzie na stronie
+            document.getElementById('spotify-info').innerText = 'Wystąpił błąd podczas pobierania danych z Spotify.';
+        }
+    }
+
+    // Wywołaj funkcję updateCurrentlyPlaying, aby na początku załadowania strony od razu wyświetlić aktualnie odtwarzany utwór
+    updateCurrentlyPlaying();
+</script>
+
+
+
+
     <h1><b>coś</b></h1>
     <br>
     <h1>O mnie :></h1>
@@ -155,6 +200,13 @@ h1, h2, ul {
       <li>CS:GO <400 godzin></li>
       <li>Minecraft</li>
     </ul>
+
+  <div id="spotify-info">
+        <h2>Aktualnie słucham:</h2>
+        <p id="track-info">Tytuł: <span id="track-name">-</span>, Wykonawca: <span id="artist-name">-</span></p>
+        <p id="album-info">Album: <span id="album-name">-</span></p>
+  </div>
+  
   <br>
   </body>
 </html>
