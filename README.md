@@ -201,12 +201,12 @@ h1, h2, ul {
       <li>Minecraft</li>
     </ul>
 
-  <div id="spotify-info">
+  <!--<div id="spotify-info">
         <h2>Aktualnie słucham:</h2>
         <p id="track-info">Tytuł: <span id="track-name">-</span>, Wykonawca: <span id="artist-name">-</span></p>
         <p id="album-info">Album: <span id="album-name">-</span></p>
   </div>
-  
+  -->
   <br>
   </body>
 </html>
