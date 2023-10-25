@@ -132,7 +132,7 @@ h1, h2, ul {
     <ul>
       <li><a href="https://howtopraisetheholypeanut.github.io/Python/">Python</a></li>
       <li>PHP</li>
-      <li>JS</li>
+      <li><a href="https://howtopraisetheholypeanut.github.io/JS/">JS</li>
       <li>C</li>
       <li><a href="https://howtopraisetheholypeanut.github.io/cplusplus/">C++</a></li>
       <li>C#</li>
