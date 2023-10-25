@@ -142,7 +142,7 @@ h1, h2, ul {
     </ul>
   <br>
     <center><h2>Hobby</h2></center>
-    <p>Bass gurom</p>
+    <center><p>Bass gurom</p></center>
     <ul>
       <li>Airsoft</li>
       <li>GameDev (bardzo podstawowy)</li>
