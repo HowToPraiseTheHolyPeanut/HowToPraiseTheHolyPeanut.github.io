@@ -141,7 +141,7 @@ h1, h2, ul {
       <li>SQL</li>
     </ul>
   <br>
-    <h2>Hobby</h2>
+    <center><h2>Hobby</h2></center>
     <p>Bass gurom</p>
     <ul>
       <li>Airsoft</li>
