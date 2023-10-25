@@ -135,7 +135,7 @@ h1, h2, ul {
       <li>PHP</li>
       <li>JS</li>
       <li>C</li>
-      <li>C++<a href="https://howtopraisetheholypeanut.github.io/cpp/">C++</a></li>
+      <li><a href="https://howtopraisetheholypeanut.github.io/cpp/">C++</a></li>
       <li>C#</li>
       <li>Batch</li>
       <li>Kotlin</li>
