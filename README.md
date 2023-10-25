@@ -124,9 +124,8 @@ h1, h2, ul {
   </head>
   <body>
 
-    <h1><b>coś</b></h1>
+    <h1><b>Notatku tutaj będą (chb)</b></h1>
     <br>
-    <h1>O mnie :></h1>
     <p>Moje jebane bio, tu będą lekcje itp i guess</p>
     <br>
     <h2>Języki Programowania których się uczę: </h2>
